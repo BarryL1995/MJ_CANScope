@@ -1,6 +1,6 @@
 请大家多多点赞支持，以后还会分享更多有用的工具。有合作的老板请留言或者私信
 
-MJCANScope是一款支持CAN报文读取，故障诊断的多功能软件。
+MJ_CANScope是一款支持CAN报文读取，故障诊断的多功能软件。
 
 1. 基于 **Qt 6.11 + MinGW 13.1** 的 CAN 报文监控、配置与曲线分析工具，面向周立功（ZLG）全系列 CAN/CANFD 设备。
 集Cantest, Zcanpro, CANdb++, CANoe功能与一身，操作简单，使用方便。
